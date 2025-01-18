@@ -1,4 +1,4 @@
-working_days=int(input("Enter number of school days"))
+working_days=int(input("Enter number of work days"))
 absent=int(input("Enter the days you were absent"))
 attended_classes=working_days-absent
 per_attended=(attended_classes/working_days)*100
